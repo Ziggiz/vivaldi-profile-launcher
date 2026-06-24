@@ -1,0 +1,12 @@
+{
+  "vivaldi_binary": "/Applications/Vivaldi.app/Contents/MacOS/Vivaldi",
+  "user_data_dir": "~/Library/Application Support/Vivaldi",
+  "template_profile_name": "Default-template",
+  "wipe_on_clone": [
+    "History", "History-journal", "Visited Links",
+    "Top Sites", "Top Sites-journal",
+    "Current Session", "Current Tabs", "Last Session", "Last Tabs",
+    "Sessions", "Cookies", "Cookies-journal",
+    "Login Data", "Login Data-journal", "Web Data", "Web Data-journal"
+  ]
+}
