@@ -45,10 +45,12 @@ cd vivaldi-profile-launcher
 
 Open **Vivaldi Profiles**:
 
-1. Start typing to jump to a profile in the list.
-2. Pick a profile → it opens (or its existing window is focused).
-3. Pick **➕ Create new profile …** → type a name → it's cloned from your template
-   and opened.
+1. Type **any word** that appears in the profile name and click **Search** —
+   e.g. “maskin” finds “Intra maskin”. Multiple words narrow the results (all must
+   match). Leave the field empty to list every profile.
+2. Pick a profile from the results → it opens (or its existing window is focused).
+3. Pick **🔍 New search …** to search again, or **➕ Create new profile …** to make
+   a new one — type a name and it's cloned from your template and opened.
 
 ### Creating profiles from a template
 
