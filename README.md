@@ -62,6 +62,21 @@ for creating new ones.
 
 ---
 
+## Screenshots
+
+<!--
+  Add your images to docs/screenshots/ with these exact names, then commit:
+    docs/screenshots/picker.png   – the profile search/picker window
+    docs/screenshots/create.png   – the "create new profile" dialog
+  PNG works best. ~1000px wide is plenty. Delete a row if you only add one image.
+-->
+
+| Search & open a profile | Create a new profile |
+|:--:|:--:|
+| <img src="docs/screenshots/picker.png" width="420" alt="Profile picker"> | <img src="docs/screenshots/create.png" width="420" alt="Create new profile dialog"> |
+
+---
+
 ## How it works
 
 Two small layers, so the UI can be replaced without touching the logic:
